@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Курс валют</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Курс валют</h1>
+    <table id="currency-table">
+        <tr>
+            <th>Валюта</th>
+            <th>Курс</th>
+        </tr>
+    </table>
+
+    <script>
+        fetch('currency.xml')
+            .then(response => response.text())
+            .then(data => {
+                const parser = new DOMParser();
+                const xmlDoc = parser.parseFromString(data, 'application/xml');
+                const currencies = xmlDoc.getElementsByTagName('currency');
+
+                for (let i = 0; i < currencies.length; i++) {
+                    const currency = currencies[i];
+                    const name = currency.getAttribute('name');
+                    const rate = currency.getAttribute('rate');
+
+                    const tableRow = document.createElement('tr');
+                    const nameCell = document.createElement('td');
+                    const rateCell = document.createElement('td');
+
+                    nameCell.innerHTML = name;
+                    rateCell.innerHTML = rate;
+
+                    tableRow.appendChild(nameCell);
+                    tableRow.appendChild(rateCell);
+                    document.getElementById('currency-table').appendChild(tableRow);
+                }
+            });
+    </script>
+</body>
+</html>
