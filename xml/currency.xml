@@ -1,0 +1,436 @@
+<exchange>
+<currency>
+<r030>36</r030>
+<txt>Австралійський долар</txt>
+<rate>15.9946</rate>
+<cc>AUD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>124</r030>
+<txt>Канадський долар</txt>
+<rate>18.3002</rate>
+<cc>CAD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>156</r030>
+<txt>Юань Женьмiньбi</txt>
+<rate>3.5199</rate>
+<cc>CNY</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>191</r030>
+<txt>Куна</txt>
+<rate>3.6122</rate>
+<cc>HRK</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>203</r030>
+<txt>Чеська крона</txt>
+<rate>1.0624</rate>
+<cc>CZK</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>208</r030>
+<txt>Данська крона</txt>
+<rate>3.6106</rate>
+<cc>DKK</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>344</r030>
+<txt>Гонконгівський долар</txt>
+<rate>3.1548</rate>
+<cc>HKD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>348</r030>
+<txt>Форинт</txt>
+<rate>0.079931</rate>
+<cc>HUF</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>356</r030>
+<txt>Індійська рупія</txt>
+<rate>0.34075</rate>
+<cc>INR</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>360</r030>
+<txt>Рупія</txt>
+<rate>0.0017221</rate>
+<cc>IDR</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>376</r030>
+<txt>Новий ізраїльський шекель</txt>
+<rate>7.0946</rate>
+<cc>ILS</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>392</r030>
+<txt>Єна</txt>
+<rate>0.22628</rate>
+<cc>JPY</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>398</r030>
+<txt>Теньге</txt>
+<rate>0.064422</rate>
+<cc>KZT</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>410</r030>
+<txt>Вона</txt>
+<rate>0.020237</rate>
+<cc>KRW</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>484</r030>
+<txt>Мексиканське песо</txt>
+<rate>1.2424</rate>
+<cc>MXN</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>498</r030>
+<txt>Молдовський лей</txt>
+<rate>1.3837</rate>
+<cc>MDL</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>554</r030>
+<txt>Новозеландський долар</txt>
+<rate>15.3343</rate>
+<cc>NZD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>578</r030>
+<txt>Норвезька крона</txt>
+<rate>2.5961</rate>
+<cc>NOK</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>643</r030>
+<txt>Російський рубль</txt>
+<rate>0.36626</rate>
+<cc>RUB</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>682</r030>
+<txt>Саудівський рiял</txt>
+<rate>6.5547</rate>
+<cc>SAR</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>702</r030>
+<txt>Сінгапурський долар</txt>
+<rate>17.626</rate>
+<cc>SGD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>710</r030>
+<txt>Ренд</txt>
+<rate>1.5777</rate>
+<cc>ZAR</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>752</r030>
+<txt>Шведська крона</txt>
+<rate>2.527</rate>
+<cc>SEK</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>756</r030>
+<txt>Швейцарський франк</txt>
+<rate>25.4384</rate>
+<cc>CHF</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>818</r030>
+<txt>Єгипетський фунт</txt>
+<rate>1.5728</rate>
+<cc>EGP</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>826</r030>
+<txt>Фунт стерлінгів</txt>
+<rate>31.6486</rate>
+<cc>GBP</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>840</r030>
+<txt>Долар США</txt>
+<rate>24.59</rate>
+<cc>USD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>933</r030>
+<txt>Бiлоруський рубль</txt>
+<rate>10.9998</rate>
+<cc>BYN</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>944</r030>
+<txt>Азербайджанський манат</txt>
+<rate>14.4826</rate>
+<cc>AZN</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>946</r030>
+<txt>Румунський лей</txt>
+<rate>5.6051</rate>
+<cc>RON</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>949</r030>
+<txt>Турецька ліра</txt>
+<rate>3.9463</rate>
+<cc>TRY</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>960</r030>
+<txt>СПЗ (спеціальні права запозичення)</txt>
+<rate>33.7512</rate>
+<cc>XDR</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>975</r030>
+<txt>Болгарський лев</txt>
+<rate>13.8053</rate>
+<cc>BGN</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>978</r030>
+<txt>Євро</txt>
+<rate>26.9789</rate>
+<cc>EUR</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>985</r030>
+<txt>Злотий</txt>
+<rate>6.237</rate>
+<cc>PLN</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>12</r030>
+<txt>Алжирський динар</txt>
+<rate>0.20442</rate>
+<cc>DZD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>50</r030>
+<txt>Така</txt>
+<rate>0.28946</rate>
+<cc>BDT</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>51</r030>
+<txt>Вірменський драм</txt>
+<rate>0.051379</rate>
+<cc>AMD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>364</r030>
+<txt>Іранський ріал</txt>
+<rate>0.00058548</rate>
+<cc>IRR</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>368</r030>
+<txt>Іракський динар</txt>
+<rate>0.020664</rate>
+<cc>IQD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>417</r030>
+<txt>Сом</txt>
+<rate>0.35204</rate>
+<cc>KGS</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>422</r030>
+<txt>Ліванський фунт</txt>
+<rate>0.016312</rate>
+<cc>LBP</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>434</r030>
+<txt>Лівійський динар</txt>
+<rate>17.415</rate>
+<cc>LYD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>458</r030>
+<txt>Малайзійський ринггіт</txt>
+<rate>5.8341</rate>
+<cc>MYR</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>504</r030>
+<txt>Марокканський дирхам</txt>
+<rate>2.5537</rate>
+<cc>MAD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>608</r030>
+<txt>Філіппінське песо</txt>
+<rate>0.48228</rate>
+<cc>PHP</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>704</r030>
+<txt>Донг</txt>
+<rate>0.0010581</rate>
+<cc>VND</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>764</r030>
+<txt>Бат</txt>
+<rate>0.77962</rate>
+<cc>THB</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>784</r030>
+<txt>Дирхам ОАЕ</txt>
+<rate>6.6948</rate>
+<cc>AED</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>788</r030>
+<txt>Туніський динар</txt>
+<rate>8.6081</rate>
+<cc>TND</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>860</r030>
+<txt>Узбецький сум</txt>
+<rate>0.0025813</rate>
+<cc>UZS</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>901</r030>
+<txt>Новий тайванський долар</txt>
+<rate>0.8119</rate>
+<cc>TWD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>934</r030>
+<txt>Туркменський новий манат</txt>
+<rate>7.0257</rate>
+<cc>TMT</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>936</r030>
+<txt>Ганське седі</txt>
+<rate>4.4547</rate>
+<cc>GHS</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>941</r030>
+<txt>Сербський динар</txt>
+<rate>0.22954</rate>
+<cc>RSD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>972</r030>
+<txt>Сомоні</txt>
+<rate>2.5403</rate>
+<cc>TJS</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>981</r030>
+<txt>Ларі</txt>
+<rate>8.8533</rate>
+<cc>GEL</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>986</r030>
+<txt>Бразильський реал</txt>
+<rate>5.4721</rate>
+<cc>BRL</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>959</r030>
+<txt>Золото</txt>
+<rate>39881.29</rate>
+<cc>XAU</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>961</r030>
+<txt>Срiбло</txt>
+<rate>422.94</rate>
+<cc>XAG</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>962</r030>
+<txt>Платина</txt>
+<rate>21494.61</rate>
+<cc>XPT</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+<currency>
+<r030>964</r030>
+<txt>Паладiй</txt>
+<rate>66796.52</rate>
+<cc>XPD</cc>
+<exchangedate>02.03.2020</exchangedate>
+</currency>
+</exchange>
